@@ -1,0 +1,21 @@
+body{
+    background-color: beige;
+    text-align: center;
+}
+
+#curr{
+    height: 400px;
+    width: 600px;
+    border: 12px solid black;
+    box-shadow: 12px 12px 12px yellow;
+    margin-bottom: 20px;
+}
+
+#owo{
+    height: 80px;
+    width: auto;
+    font-weight: bolder;
+    font-size: x-large;
+    box-shadow: 12px 12px 12px green;
+    background-color: hotpink;
+}
